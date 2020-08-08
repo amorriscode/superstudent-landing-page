@@ -15,7 +15,7 @@ export default function IndexPage() {
             </h1>
 
             <p className="text-3xl z-10">
-              Create, monitor, and track progress of Individualised Education Plans. Supporting student progress has never been easier!
+              Create, monitor, and track progress of <span className="font-bold text-white sm:text-ss-pink">Individual Education Plans</span>. Supporting student progress has never been easier!
             </p>
 
             <div className="squiggles w-48 h-48 absolute -ml-24 -mt-56"></div>
