@@ -3,8 +3,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'accent-1': '#333',
+        'ss-blue': '#59C8D9',
+        'ss-pink': '#FB8D89',
+        'ss-purple': '#BD96EE',
+        'ss-gray': '#4F4F4F',
       },
+      fontFamily: {
+        'logo': ['"Fjalla One"', 'sans-serif'],
+      }
     },
   },
   variants: {},

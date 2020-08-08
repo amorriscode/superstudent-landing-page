@@ -7,8 +7,19 @@
 /* Stop purging. */
 
 /* Write you own custom component styles here */
-.btn-blue {
-  @apply bg-blue-500 text-white font-bold py-2 px-4 rounded;
+.landing {
+  background-size: 2500px;
+  background-position: top -1000px right -1400px;
+  background-repeat: no-repeat;
+  background-image: url("data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20200%20200%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20fill%3D%22%2359C8D9%22%20d%3D%22M21.8%2C-35.9C28%2C-25.5%2C32.5%2C-18.8%2C34.1%2C-11.6C35.6%2C-4.5%2C34.1%2C3%2C31.5%2C10C28.9%2C16.9%2C25.2%2C23.3%2C19.8%2C30.2C14.4%2C37.2%2C7.2%2C44.7%2C-5.8%2C52.6C-18.8%2C60.6%2C-37.6%2C69.1%2C-52.5%2C65.3C-67.5%2C61.4%2C-78.5%2C45.3%2C-75.8%2C30.2C-73%2C15.1%2C-56.4%2C1.1%2C-51%2C-16.8C-45.5%2C-34.8%2C-51.2%2C-56.6%2C-44.6%2C-66.9C-38%2C-77.1%2C-19%2C-75.8%2C-5.6%2C-68.1C7.8%2C-60.4%2C15.6%2C-46.3%2C21.8%2C-35.9Z%22%20transform%3D%22translate(100%20100)%22%20%2F%3E%3C%2Fsvg%3E");
+}
+
+footer {
+  height: 400px;
+  background-size: 2500px;
+  background-position: top -500px left -1200px;
+  background-repeat: no-repeat;
+  background-image: url("data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20200%20200%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20fill%3D%22%23BD96EE%22%20d%3D%22M53.8%2C-45.9C59.8%2C-35.5%2C47.7%2C-13.7%2C41.2%2C7.4C34.8%2C28.4%2C34%2C48.7%2C23.7%2C56.4C13.4%2C64.1%2C-6.4%2C59.3%2C-20.9%2C49.8C-35.4%2C40.3%2C-44.5%2C26.3%2C-44.3%2C13.9C-44.1%2C1.5%2C-34.6%2C-9.2%2C-25.6%2C-20.3C-16.6%2C-31.4%2C-8.3%2C-42.9%2C7.8%2C-49.1C24%2C-55.4%2C47.9%2C-56.4%2C53.8%2C-45.9Z%22%20transform%3D%22translate(100%20100)%22%20%2F%3E%3C%2Fsvg%3E");
 }
 
 /* Start purging... */
